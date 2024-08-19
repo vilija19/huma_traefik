@@ -1,0 +1,5 @@
+.env
+logs/*
+!logs/access_empty.json
+letsencrypt/*
+!letsencrypt/acme_empty.json
